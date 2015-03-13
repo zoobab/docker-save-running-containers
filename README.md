@@ -8,3 +8,4 @@ Example:
     REPOSITORY                  TAG                        IMAGE ID            CREATED             VIRTUAL SIZE
     debian                      wheezydev4-031315_111428   d22d70a387bf        2 minutes ago       4.301 GB
     luisalejandro/debian-i386   latest-031315_111427       430a2c127c49        2 minutes ago       53.82 MB
+    luisalejandro/debian-i386   latest                     7902e3f5c3f8        9 months ago        53.82 MB
