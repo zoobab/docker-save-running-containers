@@ -1,3 +1,4 @@
+[![noswpatv3](http://zoobab.wdfiles.com/local--files/start/noupcv3.jpg)](https://ffii.org/donate-now-to-save-europe-from-software-patents-says-ffii/)
 # docker-save-running-containers
 
 docker-save-running-containers.sh is a simple script to save running containers into images with a timestamp added in their tagname.
